@@ -1,0 +1,121 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "name": "Buddy",
+        "species": "Dog",
+        "breed": "Labrador Retriever",
+        "age": 2,
+        "description": "Buddy is a vibrant and friendly Labrador Retriever who loves nothing more than playtime at the park. With his shiny black coat and wagging tail, Buddy is always ready for an adventure. He's great with kids and other dogs, making him the perfect companion for an active family.",
+        "picture": ""
+      },
+      {
+        "id": 2,
+        "name": "Whiskers",
+        "species": "Cat",
+        "breed": "Siamese",
+        "age": 5,
+        "description": "Whiskers is a sophisticated Siamese cat with stunning blue eyes and a soft, cream-colored coat. Although she may seem reserved at first, once she warms up to you, she's a purring machine. Whiskers enjoys lounging in sunny spots and being pampered with gentle pets and chin scratches.",
+        "picture": ""
+      },
+      {
+        "id": 3,
+        "name": "Rocky",
+        "species": "Dog",
+        "breed": "German Shepherd",
+        "age": 3,
+        "description": "Meet Rocky, the loyal and courageous German Shepherd. With his striking tan and black markings, Rocky is a picture of strength and intelligence. He's obedient and eager to please, making him an excellent candidate for obedience training or even search and rescue work. Despite his imposing appearance, Rocky has a heart of gold and loves nothing more than cuddling up with his humans.",
+        "picture": ""
+      },
+      {
+        "id": 4,
+        "name": "Mittens",
+        "species": "Cat",
+        "breed": "Persian",
+        "age": 7,
+        "description": "Mittens is a regal Persian cat with luxurious long fur and striking green eyes. At 7 years old, she's mastered the art of relaxation and enjoys spending her days lounging on soft pillows and watching the world go by. Mittens prefers a calm and quiet environment where she can be the center of attention, and she'll reward your affection with gentle purrs and headbutts.",
+        "picture": ""
+      },
+      {
+        "id": 5,
+        "name": "Max",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "age": 4,
+        "description": "Max is a handsome Golden Retriever with a heart of gold to match his coat. At 4 years old, he's in the prime of his life and ready for all sorts of adventures. Max loves nothing more than chasing tennis balls, going for long walks, and swimming in the nearest body of water. He's a true family dog, loyal and affectionate to everyone he meets.",
+        "picture": ""
+      },
+      {
+        "id": 6,
+        "name": "Fluffy",
+        "species": "Cat",
+        "breed": "Maine Coon",
+        "age": 6,
+        "description": "Fluffy is a majestic Maine Coon cat with a luxurious fur coat and tufted ears. Despite his large size, Fluffy is a gentle giant who enjoys lounging on the highest perch he can find. He's an independent cat but appreciates a good cuddle session every now and then.",
+        "picture": ""
+      },
+      {
+        "id": 7,
+        "name": "Oreo",
+        "species": "Dog",
+        "breed": "Dalmatian",
+        "age": 1,
+        "description": "Oreo is a playful Dalmatian puppy with a coat as speckled as his namesake cookie. Full of energy and curiosity, Oreo loves exploring new environments and meeting new friends. He's still learning the ropes but is eager to become the best companion anyone could ask for.",
+        "picture": ""
+      },
+      {
+        "id": 8,
+        "name": "Smokey",
+        "species": "Cat",
+        "breed": "British Shorthair",
+        "age": 4,
+        "description": "Smokey is a laid-back British Shorthair with a plush coat and copper-colored eyes. With his calm demeanor and affectionate nature, Smokey is the purrfect lap cat. He enjoys lazy afternoons lounging in sunbeams and receiving gentle chin scratches.",
+        "picture": ""
+      },
+      {
+        "id": 9,
+        "name": "Daisy",
+        "species": "Dog",
+        "breed": "Poodle",
+        "age": 2,
+        "description": "Daisy is a charming Poodle with a curly coat and a wagging tail that never stops. Intelligent and eager to please, Daisy excels in obedience training and loves showing off her tricks. She's also a social butterfly who gets along well with humans and other dogs.",
+        "picture": ""
+      },
+      {
+        "id": 10,
+        "name": "Luna",
+        "species": "Cat",
+        "breed": "Ragdoll",
+        "age": 3,
+        "description": "Luna is a stunning Ragdoll cat with striking blue eyes and a plush, semi-longhaired coat. True to her breed, Luna is known for her gentle and affectionate nature. She loves being cradled like a baby and will reward you with soft purrs and head nudges.",
+        "picture": ""
+      },
+      {
+        "id": 11,
+        "name": "Charlie",
+        "species": "Dog",
+        "breed": "Siberian Husky",
+        "age": 5,
+        "description": "Charlie is a striking Siberian Husky with piercing blue eyes and a fluffy coat that's perfect for cuddling. Despite his independent streak, Charlie is a loyal companion who thrives on human interaction and loves nothing more than going for long runs or hikes.",
+        "picture": ""
+      },
+      {
+        "id": 12,
+        "name": "Milo",
+        "species": "Cat",
+        "breed": "Scottish Fold",
+        "age": 2,
+        "description": "Milo is an adorable Scottish Fold with folded ears and a playful personality. Always curious and ready for adventure, Milo loves exploring every nook and cranny of his surroundings. He's also a sucker for a good chin scratch and will happily purr away in your lap.",
+        "picture": ""
+      },
+      {
+        "id": 13,
+        "name": "Bailey",
+        "species": "Dog",
+        "breed": "Beagle",
+        "age": 6,
+        "description": "Bailey is a lovable Beagle with floppy ears and a nose that's always sniffing out new adventures. Full of energy and enthusiasm, Bailey loves going on long walks and exploring the great outdoors. He's also a bit of a foodie and will do just about anything for a tasty treat.",
+        "picture": ""
+      }
+    ]
+}
