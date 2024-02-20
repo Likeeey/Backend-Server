@@ -134,51 +134,12 @@
       "picture": null
     },
     {
-      "id": 14
-    },
-    {
-      "id": 15
-    },
-    {
-      "id": 16
-    },
-    {
-      "id": 17
-    },
-    {
-      "id": 18
-    },
-    {
-      "id": 19
-    },
-    {
-      "id": 20
-    },
-    {
-      "id": 21
-    },
-    {
-      "id": "e4eda507-d023-40cb-8380-dc71f17dda3c",
-      "name": "sadasdasd",
-      "species": "Human",
-      "breed": "Homem",
-      "age": "50",
-      "picture": null
-    },
-    {
-      "id": 22
-    },
-    {
-      "id": 23
-    },
-    {
-      "id": 24
-    },
-    {
-      "id": 25
-    },
-    {
-      "id": 26
+      "name": "michael",
+      "species": "dog",
+      "breed": "dog",
+      "age": "2",
+      "picture": null,
+      "id": 33
     }
   ]
 }
