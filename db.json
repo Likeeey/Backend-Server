@@ -1,31 +1,13 @@
 {
   "pets": [
     {
-      "id": 1,
-      "name": "Buddy",
-      "species": "Dog",
-      "breed": "Labrador Retriever",
-      "age": 2,
-      "description": "Buddy is a vibrant and friendly Labrador Retriever who loves nothing more than playtime at the park. With his shiny black coat and wagging tail, Buddy is always ready for an adventure. He's great with kids and other dogs, making him the perfect companion for an active family.",
-      "picture": "https://retrieveradvice.com/wp-content/uploads/2022/11/2-Year-Old-Labrador-Retriever-1-1.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Whiskers",
-      "species": "Cat",
-      "breed": "Siamese",
-      "age": 5,
-      "description": "Whiskers is a sophisticated Siamese cat with stunning blue eyes and a soft, cream-colored coat. Although she may seem reserved at first, once she warms up to you, she's a purring machine. Whiskers enjoys lounging in sunny spots and being pampered with gentle pets and chin scratches.",
-      "picture": "https://i.pinimg.com/736x/4d/a1/0a/4da10a71eeb1f242f0b0e61c23950bba.jpg"
-    },
-    {
       "id": 3,
       "name": "Rocky",
       "species": "Dog",
       "breed": "German Shepherd",
       "age": 3,
       "description": "Meet Rocky, the loyal and courageous German Shepherd. With his striking tan and black markings, Rocky is a picture of strength and intelligence. He's obedient and eager to please, making him an excellent candidate for obedience training or even search and rescue work. Despite his imposing appearance, Rocky has a heart of gold and loves nothing more than cuddling up with his humans.",
-      "picture": ""
+      "picture": "https://d.newsweek.com/en/full/2201052/dog.jpg"
     },
     {
       "id": 4,
@@ -34,7 +16,7 @@
       "breed": "Persian",
       "age": 7,
       "description": "Mittens is a regal Persian cat with luxurious long fur and striking green eyes. At 7 years old, she's mastered the art of relaxation and enjoys spending her days lounging on soft pillows and watching the world go by. Mittens prefers a calm and quiet environment where she can be the center of attention, and she'll reward your affection with gentle purrs and headbutts.",
-      "picture": ""
+      "picture": "https://www.azenmacskam.hu/wp-content/uploads/2022/02/gettyimages-174776419.jpg"
     },
     {
       "id": 5,
@@ -43,7 +25,7 @@
       "breed": "Golden Retriever",
       "age": 4,
       "description": "Max is a handsome Golden Retriever with a heart of gold to match his coat. At 4 years old, he's in the prime of his life and ready for all sorts of adventures. Max loves nothing more than chasing tennis balls, going for long walks, and swimming in the nearest body of water. He's a true family dog, loyal and affectionate to everyone he meets.",
-      "picture": ""
+      "picture": "https://cdn.vidaativa.pt/uploads/2019/11/programar-a-reproducao-da-cadela-golden-retriever.jpg"
     },
     {
       "id": 6,
@@ -52,7 +34,7 @@
       "breed": "Maine Coon",
       "age": 6,
       "description": "Fluffy is a majestic Maine Coon cat with a luxurious fur coat and tufted ears. Despite his large size, Fluffy is a gentle giant who enjoys lounging on the highest perch he can find. He's an independent cat but appreciates a good cuddle session every now and then.",
-      "picture": ""
+      "picture": "https://media-eu.husse.com/media/1b/df/c1/1607081048/iStock-1031592516.jpg"
     },
     {
       "id": 7,
@@ -61,7 +43,7 @@
       "breed": "Dalmatian",
       "age": 1,
       "description": "Oreo is a playful Dalmatian puppy with a coat as speckled as his namesake cookie. Full of energy and curiosity, Oreo loves exploring new environments and meeting new friends. He's still learning the ropes but is eager to become the best companion anyone could ask for.",
-      "picture": ""
+      "picture": "https://cdn.britannica.com/47/236047-050-F06BFC5E/Dalmatian-dog.jpg"
     },
     {
       "id": 8,
@@ -70,7 +52,7 @@
       "breed": "British Shorthair",
       "age": 4,
       "description": "Smokey is a laid-back British Shorthair with a plush coat and copper-colored eyes. With his calm demeanor and affectionate nature, Smokey is the purrfect lap cat. He enjoys lazy afternoons lounging in sunbeams and receiving gentle chin scratches.",
-      "picture": ""
+      "picture": "https://www.thesprucepets.com/thmb/2HF5pGwbA1_74qlubXRyEM_xxlk=/2121x0/filters:no_upscale():strip_icc()/GettyImages-1319774380-c3da91f9259a47e0966007f8e10690ba.jpg"
     },
     {
       "id": 9,
@@ -79,7 +61,7 @@
       "breed": "Poodle",
       "age": 2,
       "description": "Daisy is a charming Poodle with a curly coat and a wagging tail that never stops. Intelligent and eager to please, Daisy excels in obedience training and loves showing off her tricks. She's also a social butterfly who gets along well with humans and other dogs.",
-      "picture": ""
+      "picture": "https://d3544la1u8djza.cloudfront.net/APHI/Blog/2023/July/MiniaturePoodle_Hero.jpg"
     },
     {
       "id": 10,
@@ -88,7 +70,7 @@
       "breed": "Ragdoll",
       "age": 3,
       "description": "Luna is a stunning Ragdoll cat with striking blue eyes and a plush, semi-longhaired coat. True to her breed, Luna is known for her gentle and affectionate nature. She loves being cradled like a baby and will reward you with soft purrs and head nudges.",
-      "picture": ""
+      "picture": "https://media.istockphoto.com/id/1304538926/pt/foto/beautiful-young-white-purebred-ragdoll-cat-with-blue-eyes.jpg?s=612x612&w=0&k=20&c=eJNxp4yHYDtNYnh0qKw1113ePb_NeVfOTRBgv_B0e_Y="
     },
     {
       "id": 11,
@@ -97,7 +79,7 @@
       "breed": "Siberian Husky",
       "age": 5,
       "description": "Charlie is a striking Siberian Husky with piercing blue eyes and a fluffy coat that's perfect for cuddling. Despite his independent streak, Charlie is a loyal companion who thrives on human interaction and loves nothing more than going for long runs or hikes.",
-      "picture": ""
+      "picture": "https://www.dailypaws.com/thmb/B6yWhzGpQZsg3kxMzLn-hvGIF7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/siberian-husky-100800827-2000-9449ca147e0e4b819bce5189c2411188.jpg"
     },
     {
       "id": 12,
@@ -106,7 +88,7 @@
       "breed": "Scottish Fold",
       "age": 2,
       "description": "Milo is an adorable Scottish Fold with folded ears and a playful personality. Always curious and ready for adventure, Milo loves exploring every nook and cranny of his surroundings. He's also a sucker for a good chin scratch and will happily purr away in your lap.",
-      "picture": ""
+      "picture": "https://www.tiendanimal.pt/blog/wp-content/uploads/2022/01/Scottish-Fold-raza-1-1200x900.jpg"
     },
     {
       "id": 13,
@@ -115,31 +97,7 @@
       "breed": "Beagle",
       "age": 6,
       "description": "Bailey is a lovable Beagle with floppy ears and a nose that's always sniffing out new adventures. Full of energy and enthusiasm, Bailey loves going on long walks and exploring the great outdoors. He's also a bit of a foodie and will do just about anything for a tasty treat.",
-      "picture": ""
-    },
-    {
-      "id": "79ac38fc-7c4f-423f-a6cb-75d8fb8f7cd7",
-      "name": "Rui",
-      "species": "Human",
-      "breed": "Homem",
-      "age": "50",
-      "picture": null
-    },
-    {
-      "id": "a024b4cd-aa40-4c30-8a77-61f8a1b40c7c",
-      "name": "Rui",
-      "species": "Human",
-      "breed": "Homem",
-      "age": "30",
-      "picture": null
-    },
-    {
-      "name": "michael",
-      "species": "dog",
-      "breed": "dog",
-      "age": "2",
-      "picture": null,
-      "id": 33
+      "picture": "https://www.zooplus.pt/magazine/wp-content/uploads/2018/06/beagle_1.jpeg"
     }
   ]
 }
